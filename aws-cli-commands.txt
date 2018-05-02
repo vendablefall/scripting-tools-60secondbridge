@@ -1,0 +1,1 @@
+aws s3 sync /home/ec2-user/environment/60SecondBridgeJekyll/_site s3://testingtesting1231/ --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers --delete
